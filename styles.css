@@ -1,6 +1,5 @@
-
 /*--- HEADER ---*/
-.bg-banner{
+.bg-banner {
     background-image: url("./Banner/Banner2.jpg");
     background-size: cover;
     height: 75vh;
@@ -8,32 +7,38 @@
     background-position: center center;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
-   }
+}
 
-   .profile-img{
+.profile-img {
     border-radius: 50%;
     margin-left: 75px;
-    }
+}
 
-    .tarjeta-presentacion{
-        margin-top: 100px;
-      
-    }
-    .logo-Des{
-        width: 220px;
-        height: 82px;
-        background-color:lightgray;
-        border-radius: 10px;
-    }
+.tarjeta-presentacion {
+    margin-top: 100px;
 
-    .logo-Des-recortado{
-        width: 100px; /* width of container */
-        height: 82px; /* height of container */
-        object-fit: cover;
-        object-position: 20px 0%; /* try 20px 10px */ 
-        }
+}
 
-        .logo-unc{
-            width: 120px;
-            height: auto;
-        }
+.logo-Des {
+    width: 220px;
+    height: 82px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.logo-Des-recortado {
+    width: 100px;
+    /* width of container */
+    height: 82px;
+    /* height of container */
+    object-fit: cover;
+    object-position: 20px 0%;
+    /* try 20px 10px */
+}
+
+
+.logos{
+    width: 90px;
+    height: auto;
+    
+}
